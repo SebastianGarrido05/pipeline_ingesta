@@ -1,0 +1,7 @@
+2026-05-08 16:28:33,581 - INFO - Iniciando ingesta: datos_prueba.csv
+2026-05-08 16:28:33,582 - ERROR - [ERROR] No encontrado: datos_prueba.csv
+2026-05-08 16:29:53,929 - INFO - Iniciando ingesta: datos_prueba.csv
+2026-05-08 16:29:53,929 - ERROR - [ERROR] No encontrado: datos_prueba.csv
+2026-05-08 16:31:21,342 - INFO - Iniciando ingesta: datos_prueba.csv
+2026-05-08 16:31:21,343 - INFO - [OK] Copiado a: data/raw\datos_prueba.csv
+2026-05-08 16:31:21,344 - INFO - Ingesta completada.
